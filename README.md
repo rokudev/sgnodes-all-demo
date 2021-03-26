@@ -12,4 +12,6 @@ To run this sample channel, follow these steps:
 
 4. [Open the SceneGraph debug console](https://developer.roku.com/en-ot/docs/developer-program/debugging/debugging-channels.md#accessing-the-debug-console) (port 8080).
 
-5. Observe the **osref** and **bscref** counts
+5. Enter the **sgnodes all** command
+
+6. Observe the **osref** and **bscref** counts
