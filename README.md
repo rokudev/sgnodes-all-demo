@@ -1,3 +1,11 @@
+# sgnodes-all-demo has moved to GitLab
+
+**This project has moved.** Development now continues at **https://gitlab.com/rokudev/sgnodes-all-demo**.
+
+This GitHub repository is archived and read-only. It is kept only as a pointer to the new home. Please open new issues and merge requests on GitLab.
+
+---
+
 # "Sgnodes all": Returning "osref" and "bscref" counts
 
 This sample channel demonstrates how the "sgnodes all" SceneGraph debug console command (port 8080) returns the reference counts held by the Roku OS (osref) and the channel itself (bscref).
